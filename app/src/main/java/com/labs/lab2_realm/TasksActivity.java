@@ -24,6 +24,7 @@ public class TasksActivity extends AppCompatActivity {
     private TasksAdapter adapter;
 
 
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
